@@ -10,7 +10,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ## Data
 
-The modified Census dataset consists of approximately 32,000 data points, with each record having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
+The modified Census dataset consists of approximately 32,000 data points, with each record having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find [this paper online](https://www.researchgate.net/publication/2669468_Scaling_Up_the_Accuracy_of_Naive-Bayes_Classifiers_a_Decision-Tree_Hybrid), with [the original dataset hosted on UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 ### Features
 
